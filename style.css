@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+  padding: 100px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: antiquewhite;
+  overflow: hidden;
+}
+
+header {
+  width: 100%;
+  padding: 0 40px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 30px;
+  color: #373737;
+  margin-bottom: 24px;
+}
+
+a {
+  color: navy;
+  display: inline-block;
+  margin-right: 50px;
+}
+
+ul {
+  padding: 0;
+  text-align: left;
+}
+
+li {
+  font-size: 18px;
+}
